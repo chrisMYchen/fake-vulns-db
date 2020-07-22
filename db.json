@@ -1,0 +1,704 @@
+{
+  "vulns": [
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 17,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 95,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 72,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 1,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 54,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 22,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 18,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 66,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 27,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 33,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 50,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 57,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 73,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 43,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 60,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 52,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 88,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 51,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 92,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 93,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 37,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 2,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 94,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 16,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 76,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 15,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 24,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 84,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 1,
+      "vulnerablePackageId": 20,
+      "createdAt": "2020-07-21T22:00:20.017Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 153,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 174,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 122,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 179,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 197,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 181,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 151,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 143,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 152,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 108,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 171,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 119,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 114,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 120,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 176,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 161,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 148,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 112,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 117,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 10,
+      "vulnerablePackageId": 189,
+      "createdAt": "2020-07-21T22:01:49.708Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 263,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 260,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 285,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 205,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 295,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 296,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 277,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 256,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 232,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 212,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 235,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 3,
+      "vulnerablePackageId": 292,
+      "createdAt": "2020-07-21T22:00:34.756Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 384,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 312,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 336,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 301,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 361,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 342,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 360,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 385,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 389,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 367,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 318,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 310,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 340,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 358,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 375,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 372,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 4,
+      "vulnerablePackageId": 341,
+      "createdAt": "2020-07-21T22:00:40.988Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 20,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 44,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 16,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 94,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 32,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 95,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 84,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 69,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 1,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 33,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 15,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 99,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 31,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 49,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 42,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 28,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 24,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 8,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 61,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 27,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 91,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 34,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 93,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 26,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 68,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 40,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 78,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 3,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 30,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 38,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 67,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 86,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 50,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 97,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 77,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 52,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 25,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 73,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 81,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 6,
+      "vulnerablePackageId": 12,
+      "createdAt": "2020-07-21T22:00:47.505Z"
+    },
+    {
+      "serverId": 7,
+      "vulnerablePackageId": 43,
+      "createdAt": "2020-07-21T22:00:54.057Z"
+    },
+    {
+      "serverId": 7,
+      "vulnerablePackageId": 39,
+      "createdAt": "2020-07-21T22:00:54.057Z"
+    },
+    {
+      "serverId": 7,
+      "vulnerablePackageId": 29,
+      "createdAt": "2020-07-21T22:00:54.057Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 163,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 123,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 176,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 164,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 177,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 159,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 8,
+      "vulnerablePackageId": 132,
+      "createdAt": "2020-07-21T22:01:13.682Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 58,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 69,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 48,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 8,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 49,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 61,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 93,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 87,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 84,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 70,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 53,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    },
+    {
+      "serverId": 9,
+      "vulnerablePackageId": 44,
+      "createdAt": "2020-07-21T22:01:33.205Z"
+    }
+  ]
+}
